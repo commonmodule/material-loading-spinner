@@ -1,0 +1,1 @@
+{"version":3,"file":"MaterialLoadingSpinner.js","sourceRoot":"","sources":["../src/MaterialLoadingSpinner.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,oBAAoB,CAAC;AAE7C,MAAM,CAAC,OAAO,OAAO,sBAAuB,SAAQ,OAAO;IACzD;QACE,KAAK,CAAC,2BAA2B,CAAC,CAAC;QACnC,IAAI,CAAC,WAAW,CAAC,SAAS;YACxB;;OAEC,CAAC;IACN,CAAC;CACF"}
