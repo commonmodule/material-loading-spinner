@@ -1,6 +1,6 @@
-import { DomNode } from "@commonmodule/app";
+import { Dom } from "@commonmodule/app";
 
-export default class MaterialLoadingSpinner extends DomNode {
+export default class MaterialLoadingSpinner extends Dom {
   constructor() {
     super(".loading-spinner.material-loading-spinner");
     this.htmlElement.innerHTML =

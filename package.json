@@ -2,13 +2,12 @@
   "name": "@commonmodule/material-loading-spinner",
   "author": "yj.gaia",
   "homepage": "https://personas.gaia.cc/yj.gaia",
-  "version": "0.1.7",
+  "version": "0.3.6",
   "type": "module",
   "types": "./lib/index.d.ts",
   "main": "./lib/index.js",
   "dependencies": {
-    "@commonmodule/app": "^0.1.8"
+    "@commonmodule/app": "^0.3.6"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
